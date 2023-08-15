@@ -1,7 +1,7 @@
   # Note Taker using Express.JS
 
   ## Description
-  Our daily life is filled with maky activities and events. It is important to keep track of activities so as not to forget them in teh course of the day. This application is supposed to help individuals to track activities using Epress.js back end to save and retrieve notes from JSON file. The front end and the back end are conected to help accomplish the task. The entire application will was deployed to Heroku. The user story and acceptance criteria is below.  
+  Our daily life is filled with maky activities and events. It is important to keep track of activities so as not to forget them in teh course of the day. This application is supposed to help individuals to track activities using Epress.js back end to save and retrieve notes from JSON file. The front end and the back end are conected to help accomplish the task. The entire application will was deployed to [Heroku](https://aqueous-scrubland-64716-bdf7e391ca6e.herokuapp.com/notes). The user story and acceptance criteria is below.
   
   ## Table of Contents
   - [User Story](#UserStory)

@@ -1,1 +1,27 @@
-[]
+[
+    {
+        "title": "Meeting with CEO",
+        "text": "Need to decide on budget for AI",
+        "id": "febc4d1a-3d4c-42e3-9788-92566df60305"
+    },
+    {
+        "title": "Bootcamp - Express.JS",
+        "text": "Have to submit assignment",
+        "id": "aa838b9a-e497-4dc0-b487-91af4a6577d0"
+    },
+    {
+        "title": "Bootcamp -MySQL",
+        "text": "Need to review notes and videos",
+        "id": "ed3a40ee-2509-4a58-a06c-b5fb22dae158"
+    },
+    {
+        "title": "Grocery shopping",
+        "text": "1. Apples\n2. Banana\n3. Garbage bags",
+        "id": "50277453-fe85-4918-8c12-8c6cbb647ad7"
+    },
+    {
+        "title": "Car dealership",
+        "text": "Must do oil change and engine flush",
+        "id": "15fc9a44-df91-4927-a6c0-7ace6083a4cc"
+    }
+]
